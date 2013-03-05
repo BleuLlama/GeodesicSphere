@@ -34,6 +34,7 @@ This only needs to be performed once.
 ##############################################################
 atmega168f737.name=ATmega168 at 7372800Hz (D15)
 
+atmega168f737.upload.tool=avrdude
 atmega168f737.upload.protocol=arduino
 atmega168f737.upload.maximum_size=14336
 atmega168f737.upload.speed=57600
